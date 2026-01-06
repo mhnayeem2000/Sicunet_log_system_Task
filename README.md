@@ -179,4 +179,4 @@ Backend / Django Developer
 Portfolio : https://dev-webnestle.pantheonsite.io/
 ---
 
-✅ This project was built as a  task for **Sicunet**.
+✅ This project was built as a  task for  <a href="https://sicunet.com/">**Sicunet**<a>.
