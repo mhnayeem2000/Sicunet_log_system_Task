@@ -175,7 +175,7 @@ event_list.txt
 ## 👤 Author
 
 **Md. Mehedi Hassan Nayeem**
-Backend / Django Developer
+--Backend / Django Developer
 ---
 <a href = "https://dev-webnestle.pantheonsite.io/">Portfolio <a>
 
