@@ -4,6 +4,11 @@ from .serializers import AccessLogSerializer
 from rest_framework import generics
 
 
+
+def index(request):
+    return render(request, "access_control/index.html")
+
+
 class AccessLogViewSet(generics.ListCreateAPIView):
     serializer_class = AccessLogSerializer
 
